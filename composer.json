@@ -1,0 +1,13 @@
+{
+    "name": "m1ke/fpdi-ext",
+    "description": "Extensions for the FPDI and FPDF libraries",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "setasign/fpdi": "dev-master"
+    },
+    "autoload": {
+        "classmap":["FPDIExt.php"]
+    },
+    "minimum-stability": "dev"
+}
