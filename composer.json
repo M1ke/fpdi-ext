@@ -4,7 +4,8 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "setasign/fpdi": "dev-master"
+        "setasign/fpdi": "1.4.2",
+        "tecnick.com/tcpdf": "6.2.3"
     },
     "autoload": {
         "classmap":["FPDIExt.php"]
